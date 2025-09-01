@@ -70,6 +70,9 @@ The script also creates build/ directory. Once the script is run your current di
 ### Examine and Update Your Local Configuration File
 
 Once the build environment is setup, a local configuration file named local.conf becomes available in a conf subdirectory of the Build Directory.
+```bash
+gedit conf/local.conf
+```
 
 For this example, the defaults are set to build for BeagleBone Black and qemuarm.
 
