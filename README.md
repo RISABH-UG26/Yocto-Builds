@@ -1,4 +1,4 @@
-# Yocto Project Quick Build for BBB and QEMU ARM
+# Yocto Project Quick Build for BeagleBone and Qemuarm
 
 ## Compatible Linux Distribution
 
